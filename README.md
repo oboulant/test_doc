@@ -22,14 +22,14 @@
 **Type of model** : Compartimental </br>
 **Technical description** : SEIR, optimal control </br>
 **Historical data w/ quarantine** : Early data in Italy (calibration only) </br>
-**Optimization formulation** : Maximization of a welfare function with hamiltonian formulation </br>
+**Optimization formulation** : Maximization of a welfare function with hamiltonian formulation
 <details>
 	<summary><b>Assumptions</b></summary>
 	
 1. Recovered and death rate depend on number of infectious and hospital capacity
 2. Some economical hypothesis (like production=consumption)
 
-</details> </br>
+</details>
 <details>
 	<summary><b>Input parameters</b></summary>
 	
