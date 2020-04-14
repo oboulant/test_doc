@@ -2,12 +2,9 @@
 
 ### General information
 
-**Authors** : Facundo Piguillem, Liyan Shi 
-
-**Date of publication** : March 27th, 2020
-
-**Paper** : Available [here](https://https://www.researchgate.net/profile/Facundo_Piguillem/publication/340226829_The_Optimal_COVID-19_Quarantine_and_Testing_Policies/links/5e7de548a6fdcc139c09055d/The-Optimal-COVID-19-Quarantine-and-Testing-Policies.pdf) 
-
+**Authors** : Facundo Piguillem, Liyan Shi </br>
+**Date of publication** : March 27th, 2020 </br>
+**Paper** : Available [here](https://https://www.researchgate.net/profile/Facundo_Piguillem/publication/340226829_The_Optimal_COVID-19_Quarantine_and_Testing_Policies/links/5e7de548a6fdcc139c09055d/The-Optimal-COVID-19-Quarantine-and-Testing-Policies.pdf) </br>
 **Code available** : no
 
 ### Related Public policy
@@ -20,25 +17,19 @@
 	
 </details>
 
-
 ### Technical information
 
-**Type of model** : Compartimental
-
-**Technical description** : SEIR, optimal control
-
-**Historical data w/ quarantine** : Early data in Italy (calibration only)
-
-**Optimization formulation** : Maximization of a welfare function with hamiltonian formulation
-
+**Type of model** : Compartimental </br>
+**Technical description** : SEIR, optimal control </br>
+**Historical data w/ quarantine** : Early data in Italy (calibration only) </br>
+**Optimization formulation** : Maximization of a welfare function with hamiltonian formulation </br>
 <details>
 	<summary><b>Assumptions</b></summary>
 	
 1. Recovered and death rate depend on number of infectious and hospital capacity
 2. Some economical hypothesis (like production=consumption)
 
-</details>
-
+</details> </br>
 <details>
 	<summary><b>Input parameters</b></summary>
 	
