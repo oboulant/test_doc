@@ -32,7 +32,7 @@
 **Optimization formulation** : Maximization of a welfare function with hamiltonian formulation
 
 <details>
-	<summary>**Assumptions**</summary>
+	<summary><b>Assumptions</b></summary>
 	
 1. Recovered and death rate depend on number of infectious and hospital capacity
 2. Some economical hypothesis (like production=consumption)
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-	<summary>**Input parameters**</summary>
+	<summary><b>Input parameters</b></summary>
 	
 Essentially :
 
@@ -61,7 +61,7 @@ Essentially :
 ### Comments/Issues
 
 <details>
-	<summary>**Remarks**</summary>
+	<summary><b>Remarks</b></summary>
 
 Model formulated in terms of economic loss, gives the optimal trajectory of the intensity of lockdown. Demands lot of exogenously fixed or calibrated parameters.
 
