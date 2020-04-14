@@ -2,12 +2,10 @@
 
 ### General information
 
-<pre>
 **Authors** : Facundo Piguillem, Liyan Shi </br>
 **Date of publication** : March 27th, 2020 </br>
 **Paper** : Available [here](https://https://www.researchgate.net/profile/Facundo_Piguillem/publication/340226829_The_Optimal_COVID-19_Quarantine_and_Testing_Policies/links/5e7de548a6fdcc139c09055d/The-Optimal-COVID-19-Quarantine-and-Testing-Policies.pdf) </br>
 **Code available** : no
-</pre>
 
 ### Related Public policy
 
