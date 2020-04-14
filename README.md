@@ -13,7 +13,7 @@
 ### Related Public policy
 
 <details>
-	<summary> __Government policies model-based scenario__ </summary>
+	<summary> <b>Government policies model-based scenario</b> </summary>
 	
 * Multiplicative term in infection rate in function of variable level of working interactions in time. 
 * Symptomatically infectious, and asymptomatic tested, if tests are available, are isolated and don't spread the virus
