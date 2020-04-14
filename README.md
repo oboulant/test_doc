@@ -2,8 +2,6 @@
 
 ### General information
 
----
-
 **Authors** : Facundo Piguillem, Liyan Shi 
 
 **Date of publication** : March 27th, 2020
@@ -14,10 +12,8 @@
 
 ### Related Public policy
 
----
-
 <details>
-	<summary>**Government policies model-based scenario**</summary>
+	<summary> **Government policies model-based scenario** </summary>
 	
 * Multiplicative term in infection rate in function of variable level of working interactions in time. 
 * Symptomatically infectious, and asymptomatic tested, if tests are available, are isolated and don't spread the virus
@@ -26,8 +22,6 @@
 
 
 ### Technical information
-
----
 
 **Type of model** : Compartimental
 
